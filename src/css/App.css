@@ -12,4 +12,38 @@ body {
     margin: 0;
     padding: 0;
     font-family: Inter, sans-serif;
+    background-color: #23252C;
+    text-align: center;
+}
+
+.container {
+    width: 317px;
+    margin: 3em auto 0;
+}
+
+.hero {
+    margin-bottom: 0;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.main {
+    background-color: #1A1B21;
+    margin-top: -5px;
+}
+
+.main-title {
+    margin-top: 0;
+    padding-top: 1em;
+}
+
+.main-interests-text {
+    margin-bottom: 0;
+}
+
+.footer {
+    background-color: #161619;
+    padding-bottom: 1em;
 }
