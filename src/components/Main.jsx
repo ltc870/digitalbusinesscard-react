@@ -5,7 +5,7 @@ export default function Main() {
         <main className="main">
             <section className="main-section">
                 <h1 className="main-title">Lawrence Caudle</h1>
-                <p className="main-subtitle">Frontend Developer</p>
+                <p className="main-subtitle">Frontend Web Developer</p>
                 <a className="main-link" href="https://www.lawrencecaudle.com/" target="_blank">www.lawrencecaudle.com</a>
                 <button className="main-button"><a className="main-button-text" href = "mailto: lawrencecaudle870@gmail.com"><i className="fa-solid fa-envelope"></i>Email</a></button>
             </section>
