@@ -27,6 +27,8 @@ body {
 
 .hero-image {
     width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .main {
@@ -37,6 +39,45 @@ body {
 .main-title {
     margin-top: 0;
     padding-top: 1em;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.5625rem;
+    margin-bottom: .20em;
+    padding-bottom: 0;
+}
+
+.main-subtitle {
+    color: #F3BF99;
+    margin-top: 0;
+    font-size: 12.8px;
+}
+
+.main-link {
+    text-decoration: none;
+    font-size: 10.24px;
+    color: #f5f5f5;
+}
+
+.main-button {
+    display: block;
+    margin: 1em auto 0;
+    width: 247px;
+    padding: .5em 0;
+}
+
+.main-button-text {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-envelope {
+    margin-right: .5em;
+}
+
+.main-text-section {
+    margin: 0 auto;
+    width: 247px;
+    text-align: left;
 }
 
 .main-interests-text {
@@ -46,4 +87,6 @@ body {
 .footer {
     background-color: #161619;
     padding-bottom: 1em;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
